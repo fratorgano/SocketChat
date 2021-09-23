@@ -1,0 +1,13 @@
+{
+  "name": "socketchat",
+  "version": "0.1",
+  "description": "Node.js chat service based on socket.io tutorial, https://socket.io/get-started/chat, with some added features",
+  "author": "fratorgano (https://github.com/fratorgano)",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.2.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
