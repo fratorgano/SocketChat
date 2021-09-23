@@ -8,6 +8,6 @@
     "socket.io": "^4.2.0"
   },
   "scripts": {
-    "run": "node server.js"
+    "start": "node server.js"
   }
 }

@@ -10,6 +10,6 @@ Open the terminal go to a folder where you want to store this project and run th
 git clone https://github.com/fratorgano/SocketChat
 cd SocketChat
 npm install
-npm run 
+npm start 
 ```
 The server will start with port 3000, this can be changed in the server.js file
